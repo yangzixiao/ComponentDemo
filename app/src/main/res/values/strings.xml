@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComponentDemo</string>
+    <string name="txt_share">分享</string>
+</resources>
